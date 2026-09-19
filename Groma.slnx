@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Groma.Api/Groma.Api.csproj" />
+    <Project Path="src/Groma.Application/Groma.Application.csproj" />
+    <Project Path="src/Groma.Domain/Groma.Domain.csproj" />
+    <Project Path="src/Groma.Infrastructure/Groma.Infrastructure.csproj" />
+    <Project Path="src/Groma.Worker/Groma.Worker.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Groma.Application.Tests/Groma.Application.Tests.csproj" />
+    <Project Path="tests/Groma.Domain.Tests/Groma.Domain.Tests.csproj" />
+    <Project Path="tests/Groma.IntegrationTests/Groma.IntegrationTests.csproj" />
+  </Folder>
+</Solution>

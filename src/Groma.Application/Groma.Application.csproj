@@ -1,0 +1,7 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Groma.Domain\Groma.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

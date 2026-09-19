@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <UserSecretsId>dotnet-Groma.Worker-adb51bde-a42d-47f7-9b48-f9cb7e489e1e</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Groma.Infrastructure\Groma.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
